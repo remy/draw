@@ -1,0 +1,8 @@
+{
+  "name": "Draw",
+  "short_name": "Draw",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ff69b4",
+  "description": "Draw"
+}
